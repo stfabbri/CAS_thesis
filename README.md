@@ -8,7 +8,7 @@ In geological sciences, it is of major interest how faults and folds are oriente
 
 The aim of this CAS project is multi-fold and wants to
 
-a) Analyze the output (lineaments) from DEMs at various illumination angles
+a) Analyze the output (lineaments) from DEMs at various illumination angles/n
 b) Analyze the output (lineaments) from FIPHs with various image enhancement techniques applied
 c) Compare the results with data from hand-picked datasets
 
