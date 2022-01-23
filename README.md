@@ -16,6 +16,7 @@ c) Compare the results with data from hand-picked datasets
 
 # Part 1: Analyse DEM and create lineaments (creating our dataset)
 Colab python file reads in digital elevation model (DEM), and hillshade pictures from various angles
+
 -> Files are all in Folder: DEM and Hillshade
 
 # Part 2: Unsupervised ML for k-means clustering
