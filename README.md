@@ -26,6 +26,8 @@ Excute step by step. Final step allows to export the created Lineament to your g
 # Part 2: Unsupervised ML for k-means clustering
 Colab python code loads lineaments created from Part 1.
 
+loads data (lineaments from previous part, csv-files; directly loaded from github) into notebook and uses this data for furhter procecssing and analysis.
+
 Checks for various correlation between different parameters of the dataset (length vs fault strike vs location etc.)
 
 Code applies k-means to find clusters in dataset.
