@@ -32,5 +32,5 @@ Checks for various correlation between different parameters of the dataset (leng
 
 Code applies k-means to find clusters in dataset.
 
-# Folder: Pictures_Output
+# Folders: Figures_Output Part 1 and 2
 These folders contain all pictures created with the notebook from Part 1 and Part 2.
