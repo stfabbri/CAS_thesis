@@ -31,3 +31,6 @@ loads data (lineaments from previous part, csv-files; directly loaded from githu
 Checks for various correlation between different parameters of the dataset (length vs fault strike vs location etc.)
 
 Code applies k-means to find clusters in dataset.
+
+# Folder: Pictures_Output
+These folders contain all pictures created with the notebook from Part 1 and Part 2.
