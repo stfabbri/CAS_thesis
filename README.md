@@ -17,7 +17,15 @@ c) Compare the results with data from hand-picked datasets
 # Part 1: Analyse DEM and create lineaments (creating our dataset)
 Colab python file reads in digital elevation model (DEM), and hillshade pictures from various angles
 
--> Files are all in Folder: DEM and Hillshade
+-> Files are all in Folder: DEM and Hillshade; code accesses automatically the files in github
+
+Various filtering techniques are tested, and an edge detection algorithm (Canny) is applied for lineament detection.
+
+Excute step by step. Final step allows to export the created Lineament to your google drive.
 
 # Part 2: Unsupervised ML for k-means clustering
-Colab python code analysis the 
+Colab python code loads lineaments created from Part 1.
+
+Checks for various correlation between different parameters of the dataset (length vs fault strike vs location etc.)
+
+Code applies k-means to find clusters in dataset.
